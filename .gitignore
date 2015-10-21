@@ -1,0 +1,17 @@
+# non-project files to ignore
+*.jpg
+*.pptx
+*.png
+*.pyc
+*.sh
+*.tmp
+*.txt
+*.xlsx
+tmp*.*
+Thumbs.db
+
+# data files
+data/
+
+# IPython notebook checkpoint files
+.ipynb_checkpoints/
